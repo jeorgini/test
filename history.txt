@@ -1,3 +1,0 @@
-hola estoy haciendo un proyecto de repaso de todos los comandos que he aprendido en git
-ahora voy a empezar a usar los comandos rm y reset
-cambios random
