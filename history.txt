@@ -1,3 +1,8 @@
 hola estoy haciendo un proyecto de repaso de todos los comandos que he aprendido en git
 ahora voy a empezar a usar los comandos rm y reset
 cambios random
+
+English
+hi i'm making a review proyect of all the commands that i learned in git
+now i'm starting to use rm and reset commands
+random changes
